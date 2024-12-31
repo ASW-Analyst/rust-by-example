@@ -6,3 +6,6 @@ po/messages.pot
 
 # Auto-generated files from macOS
 .DS_Store
+
+# Add bin sub-folder for saved binaries within learning
+learning/bin
